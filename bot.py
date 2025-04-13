@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 import os
 
-bot = telebot.TeleBot("7821947440:AAEGycgWBpnc84LzeGqeM0wJwfXYiKP16ho")
+bot = telebot.TeleBot("7627350184:AAFbHsauSaJiSagGTL_aWyrm9G0_Gdncc5M")
 user_data = {}
 
 # Наши константы)
